@@ -1,0 +1,21 @@
+body{
+    background-color: #91d6fd;
+}
+h1{
+    color: rgb(102, 17, 158);
+    font-size: 40pt;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'DucDeBerry Dfr';
+}
+@font-face{
+    font-family: 'DucDeBerry Dfr' ;
+    src: url('../fonts/DucDeBerry\ Dfr.eot');
+    src: url('../fonts/DucDeBerry\ Dfr.eot?#iefix') format('embedbed-opentype'),
+         url('../fonts/DucDeBerry\ Dfr.woff') format('woff'),
+         url('../fonts/DucDeBerry\ Dfr.woff2') format('woff2'),
+         url('../fonts/DucDeBerry\ Dfr.ttf') format('truetype'),
+         url('../fonts/DucDeBerry\ Dfr.svg#DucDeBerry Dfr') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
